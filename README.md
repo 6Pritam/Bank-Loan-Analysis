@@ -1,7 +1,10 @@
 💳 **Bank Loan Analysis Dashboard (Power BI | SQL | Excel)**
 
 
-<img width="1723" height="951" alt="SUMMARY DASHBOARD" src="https://github.com/user-attachments/assets/11780f71-26f9-458d-9972-667abd58bfa5" />
+<img width="1260" height="711" alt="SUMMARY DASHBOARD" src="https://github.com/user-attachments/assets/e914b6b7-6498-4cd5-8e14-e3b413f353dd" />
+<img width="1264" height="706" alt="OVERVIEW DASHBOARD" src="https://github.com/user-attachments/assets/0335259f-703b-4726-82ce-07d52ca92917" />
+<img width="1260" height="706" alt="DETAILS DASHBOARD" src="https://github.com/user-attachments/assets/feb43e70-83ee-44d3-81dd-715b03707cf0" />
+
 
 📌 Project Overview
 
